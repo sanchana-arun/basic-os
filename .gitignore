@@ -1,0 +1,24 @@
+# Compiled binaries
+*.bin
+*.img
+*.iso
+
+# NASM listing/debug files (if generated)
+*.lst
+*.map
+*.o
+*.out
+
+# QEMU temporary files
+*.log
+*.dmp
+*.pid
+
+# Backup files from editors (optional)
+*~
+*.swp
+.DS_Store
+
+# VS Code / JetBrains IDEs (if you use them)
+.vscode/
+.idea/
