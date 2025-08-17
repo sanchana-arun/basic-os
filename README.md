@@ -1,1 +1,1 @@
-# basic-os
+# basic-os (ongoing project)
