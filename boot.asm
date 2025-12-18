@@ -1,7 +1,8 @@
 ; [org 0x7c00]
 mov ah, 0x0e 
 
-; prints "Hello, This is Sanchana's OS"
+;test stuff
+;prints "Hello, This is Sanchana's OS"
 mov al, 'H'
 int 0x10
 
