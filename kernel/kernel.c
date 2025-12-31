@@ -19,7 +19,8 @@ int rand() {
 
 int cursor_x = 0;
 int cursor_y = 0;
-
+//addition more
+int test_var = 0;
 #define VGA_WIDTH 80
 #define VGA_HEIGHT 25
 
